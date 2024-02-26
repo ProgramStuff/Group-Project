@@ -94,7 +94,7 @@ a:hover {
 
 /* ------- Intro Styles ------- */
 
-p#intro {
+p.intro {
     width: 40%;
     margin: auto;
 }
@@ -156,7 +156,7 @@ article.info {
 }
 
 a.img-att {
-    font-size: 0.2em;
+    font-size: 0.8em;
 }
 
 a#osys-att {
@@ -336,7 +336,7 @@ Mobile Styles: up to 600px
         background-color: rgb(129, 143, 180);
     }
 
-    p#intro {
+    p.intro {
         width: 65%;
     }
 
@@ -348,7 +348,7 @@ Mobile Styles: up to 600px
         font-size: 0.4em;
     }
 
-    p#intro {
+    p.intro {
         font-size: 0.5em;
     }
 
@@ -510,7 +510,7 @@ Tablet Styles: 481px to 768px
         background-color: rgb(129, 143, 180);
     }
 
-    p#intro {
+    p.intro {
         width: 65%;
     }
 
@@ -522,7 +522,7 @@ Tablet Styles: 481px to 768px
         font-size: 0.4em;
     }
 
-    p#intro {
+    p.intro {
         font-size: 0.5em;
     }
 
